@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.4b2b8c25.chunk.js": "http://localhost:3000/static/js/0.4b2b8c25.chunk.js",
+    "static/js/0.4b2b8c25.chunk.js.map": "http://localhost:3000/static/js/0.4b2b8c25.chunk.js.map",
+    "main.js": "http://localhost:3000/static/js/main.b20903e2.chunk.js",
+    "main.js.map": "http://localhost:3000/static/js/main.b20903e2.chunk.js.map",
+    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.cd1dd8a7.js",
+    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.cd1dd8a7.js.map",
+    "static/css/3.c6aff913.chunk.css": "http://localhost:3000/static/css/3.c6aff913.chunk.css",
+    "static/js/3.dc6c032b.chunk.js": "http://localhost:3000/static/js/3.dc6c032b.chunk.js",
+    "static/js/3.dc6c032b.chunk.js.map": "http://localhost:3000/static/js/3.dc6c032b.chunk.js.map",
+    "static/js/4.6a8f1733.chunk.js": "http://localhost:3000/static/js/4.6a8f1733.chunk.js",
+    "static/js/4.6a8f1733.chunk.js.map": "http://localhost:3000/static/js/4.6a8f1733.chunk.js.map",
+    "static/js/5.2c8bde64.chunk.js": "http://localhost:3000/static/js/5.2c8bde64.chunk.js",
+    "static/js/5.2c8bde64.chunk.js.map": "http://localhost:3000/static/js/5.2c8bde64.chunk.js.map",
+    "static/js/6.57cd5b78.chunk.js": "http://localhost:3000/static/js/6.57cd5b78.chunk.js",
+    "static/js/6.57cd5b78.chunk.js.map": "http://localhost:3000/static/js/6.57cd5b78.chunk.js.map",
+    "static/js/7.3732ab36.chunk.js": "http://localhost:3000/static/js/7.3732ab36.chunk.js",
+    "static/js/7.3732ab36.chunk.js.map": "http://localhost:3000/static/js/7.3732ab36.chunk.js.map",
+    "static/js/8.9880cff3.chunk.js": "http://localhost:3000/static/js/8.9880cff3.chunk.js",
+    "static/js/8.9880cff3.chunk.js.map": "http://localhost:3000/static/js/8.9880cff3.chunk.js.map",
+    "static/js/9.6db42c73.chunk.js": "http://localhost:3000/static/js/9.6db42c73.chunk.js",
+    "static/js/9.6db42c73.chunk.js.map": "http://localhost:3000/static/js/9.6db42c73.chunk.js.map",
+    "static/js/10.6b9da2d4.chunk.js": "http://localhost:3000/static/js/10.6b9da2d4.chunk.js",
+    "static/js/10.6b9da2d4.chunk.js.map": "http://localhost:3000/static/js/10.6b9da2d4.chunk.js.map",
+    "index.html": "http://localhost:3000/index.html",
+    "precache-manifest.3612ff98c8b4eb634d7a3fdd45131485.js": "http://localhost:3000/precache-manifest.3612ff98c8b4eb634d7a3fdd45131485.js",
+    "service-worker.js": "http://localhost:3000/service-worker.js",
+    "static/css/3.c6aff913.chunk.css.map": "http://localhost:3000/static/css/3.c6aff913.chunk.css.map",
+    "static/js/3.dc6c032b.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/3.dc6c032b.chunk.js.LICENSE.txt",
+    "static/js/5.2c8bde64.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/5.2c8bde64.chunk.js.LICENSE.txt",
+    "static/js/6.57cd5b78.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/6.57cd5b78.chunk.js.LICENSE.txt",
+    "static/js/7.3732ab36.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/7.3732ab36.chunk.js.LICENSE.txt",
+    "static/js/9.6db42c73.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/9.6db42c73.chunk.js.LICENSE.txt",
+    "static/media/react-widgets.css": "http://localhost:3000/static/media/rw-widgets.eceddf47.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd1dd8a7.js",
+    "static/css/3.c6aff913.chunk.css",
+    "static/js/3.dc6c032b.chunk.js",
+    "static/js/main.b20903e2.chunk.js"
+  ]
+}
